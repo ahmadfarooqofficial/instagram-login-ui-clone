@@ -2,7 +2,7 @@
 
 First off, thank you for taking the time to visit and consider contributing to this project! 🎉
 
-This UI clone is designed, engineered, and maintained with care by **[Ahmad Farooq](https://github.com/AhmadFarooq)**. It represents a standard of pixel-perfect fidelity, high-speed optimization, and lightweight front-end craftsmanship using pure vanilla web technologies.
+This UI clone is designed, engineered, and maintained with care by **[Ahmad Farooq](https://github.com/ahmadfarooqofficial)**. It represents a standard of pixel-perfect fidelity, high-speed optimization, and lightweight front-end craftsmanship using pure vanilla web technologies.
 
 Contributions from developers like you help make open source an incredible, collaborative, and educational environment. Whether you are fixing a minor styling bug, optimizing an SVG path, improving accessibility (a11y), or expanding documentation, your help is incredibly welcome!
 
