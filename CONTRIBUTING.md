@@ -32,7 +32,7 @@ Click the **Fork** button at the top-right corner of the [main repository page](
 #### Step 2: Clone Your Fork
 Clone the forked repository to your local development machine:
 ```bash
-git clone https://github.com/your-username/instagram-login-ui-clone.git
+git clone https://github.com/ahmadfarooqofficial/instagram-login-ui-clone.git
 cd instagram-login-ui-clone
 ```
 
@@ -61,7 +61,7 @@ git push origin feature-or-fix-name
 ```
 
 #### Step 7: Create a Pull Request (PR)
-1. Navigate to the original [AhmadFarooq/instagram-login-ui-clone](https://github.com/ahmadfarooqofficial/instagram-login-ui-clone) repository on GitHub.
+1. Navigate to the original [ahmadfarooqofficial/instagram-login-ui-clone](https://github.com/ahmadfarooqofficial/instagram-login-ui-clone) repository on GitHub.
 2. You will see a banner prompting you to create a **Pull Request** from your newly pushed branch.
 3. Click **Compare & pull request**.
 4. Fill out the PR template with details about what your changes accomplish.
