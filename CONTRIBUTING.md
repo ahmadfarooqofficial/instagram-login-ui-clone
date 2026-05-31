@@ -19,7 +19,7 @@ Before you contribute, please review our project stance:
 ## 🛣️ How Can I Contribute?
 
 ### 🐛 1. Reporting Bugs & Suggesting Features
-Before opening a new issue, please search the existing [Issues](https://github.com/AhmadFarooq/instagram-login-ui-clone/issues) to see if it has already been discussed. If not:
+Before opening a new issue, please search the existing [Issues](https://github.com/ahmadfarooqofficial/instagram-login-ui-clone/issues) to see if it has already been discussed. If not:
 - Open a new issue describing the bug or feature request.
 - Include steps to reproduce the issue, browser version, and screen size context if applicable.
 
@@ -27,7 +27,7 @@ Before opening a new issue, please search the existing [Issues](https://github.c
 We follow a standard GitHub Fork-and-Pull workflow to merge contributions. Follow these steps to get your changes merged:
 
 #### Step 1: Fork the Repository
-Click the **Fork** button at the top-right corner of the [main repository page](https://github.com/AhmadFarooq/instagram-login-ui-clone) to create a copy of the codebase under your own GitHub account.
+Click the **Fork** button at the top-right corner of the [main repository page](https://github.com/ahmadfarooqofficial/instagram-login-ui-clone) to create a copy of the codebase under your own GitHub account.
 
 #### Step 2: Clone Your Fork
 Clone the forked repository to your local development machine:
@@ -61,7 +61,7 @@ git push origin feature-or-fix-name
 ```
 
 #### Step 7: Create a Pull Request (PR)
-1. Navigate to the original [AhmadFarooq/instagram-login-ui-clone](https://github.com/AhmadFarooq/instagram-login-ui-clone) repository on GitHub.
+1. Navigate to the original [AhmadFarooq/instagram-login-ui-clone](https://github.com/ahmadfarooqofficial/instagram-login-ui-clone) repository on GitHub.
 2. You will see a banner prompting you to create a **Pull Request** from your newly pushed branch.
 3. Click **Compare & pull request**.
 4. Fill out the PR template with details about what your changes accomplish.
@@ -81,6 +81,6 @@ To maintain a pixel-perfect standard, please keep the following guidelines in mi
 
 ## 💬 Questions?
 
-If you have any questions or just want to connect, feel free to open a discussion, submit an issue, or contact **[Ahmad Farooq](https://github.com/AhmadFarooq)** directly via their GitHub profile.
+If you have any questions or just want to connect, feel free to open a discussion, submit an issue, or contact **[Ahmad Farooq](https://github.com/ahmadfarooqofficial)** directly via their GitHub profile.
 
 Thank you again for building with us! Let's build a beautiful open-source web together. 🚀
