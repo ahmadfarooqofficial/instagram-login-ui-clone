@@ -68,7 +68,7 @@ Because this is a zero-dependency project, setting up the repository locally is 
 
 ### 📥 1. Clone the Repository
 ```bash
-git clone https://github.com/your-username/instagram-login-ui-clone.git
+git clone https://github.com/ahmadfarooqofficial/instagram-login-ui-clone.git
 ```
 
 ### 📂 2. Navigate to Directory
